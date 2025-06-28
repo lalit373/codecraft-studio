@@ -193,12 +193,12 @@ export default function Home() {
         <h3 className="text-2xl font-semibold mb-6 text-center text-blue-600 dark:text-blue-400">Contact</h3>
         <div className="max-w-md mx-auto text-center space-y-4">
           <p className="mb-4">Interested in working together? Get in touch!</p>
-          <p><strong>Email:</strong> codecraftstudio01@gmail.com</p>
+          <p><strong>Email:</strong> codecraftstudio21@gmail.com</p>
           <p><strong>Phone:</strong> +91-9521384830   +91-8930542553 </p>
           <div className="flex justify-center space-x-4 mt-4">
             <a href="https://wa.me/919521384830" target="_blank" className="bg-green-500 hover:bg-green-600 text-white px-4 py-2 rounded">WhatsApp</a>
-            <a href="https://www.linkedin.com/in/lalit-kumawat-2572a51a5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" className="bg-blue-700 hover:bg-blue-800 text-white px-4 py-2 rounded">LinkedIn</a>
-            <a href="https://www.upwork.com/freelancers/yourprofile" target="_blank" className="bg-gray-600 hover:bg-gray-700 text-white px-4 py-2 rounded">Upwork</a>
+            <a href="https://www.linkedin.com/in/codecraft-studio-25a1b3372" target="_blank" className="bg-blue-700 hover:bg-blue-800 text-white px-4 py-2 rounded">LinkedIn</a>
+            <a href="https://www.upwork.com/freelancers/~0182c71d3e2c970261" target="_blank" className="bg-gray-600 hover:bg-gray-700 text-white px-4 py-2 rounded">Upwork</a>
           </div>
         </div>
       <div className="flex justify-center mt-8">
