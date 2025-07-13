@@ -13,8 +13,8 @@ export default function Home() {
     <main className={`${darkMode ? "bg-gray-900 text-white" : "bg-gray-100 text-gray-800"} min-h-screen font-sans`}>
       <header className="bg-white dark:bg-gray-800 shadow p-4 flex justify-between items-center">
         <div className="flex items-center space-x-2">
-          <img src="https://i.postimg.cc/pTLsBkDG/Chat-GPT-Image-Jun-25-2025-11-26-17-AM.png" alt="CodeCraft Logo" className="h-36 w-auto drop-shadow-lg rounded-md" />
-          <h1 className="text-2xl font-bold text-blue-600 dark:text-blue-400">CODECRAFT Studio</h1>
+          <img src="https://i.postimg.cc/fy2YxYW9/Chat-GPT-Image-Jul-12-2025-11-20-56-PM.png" alt="a2z CNC Solutions Logo" className="h-36 w-auto drop-shadow-lg rounded-md" />
+          <h1 className="text-2xl font-bold text-blue-600 dark:text-blue-400">a2z CNC solutions</h1>
         </div>
         <div className="flex items-center space-x-6">
           <nav className="space-x-6">
@@ -63,7 +63,7 @@ export default function Home() {
         <h3 className="text-2xl font-semibold mb-6 text-center text-blue-600 dark:text-blue-400 mt-10">About Us</h3>
         <div className="max-w-4xl mx-auto p-6 bg-gray-100 dark:bg-gray-800 rounded-xl shadow text-gray-700 dark:text-gray-300">
           <p className="font-bold mb-4">
-            At CodeCraft Studio, we specialize in delivering high-quality CNC programming, CAD design, and CAM simulation services tailored for precision and performance. Our mission is to bridge the gap between innovative design and efficient manufacturing by leveraging the latest in CAD/CAM technology.
+            At a2z CNC Solutions, we specialize in delivering high-quality CNC programming, CAD design, and CAM simulation services tailored for precision and performance. Our mission is to bridge the gap between innovative design and efficient manufacturing by leveraging the latest in CAD/CAM technology.
           </p>
           <p className="font-bold mb-4">
             With a dedicated team of experts and years of industry experience, we take pride in providing personalized engineering solutions that meet the needs of diverse industries including automotive, aerospace, and industrial manufacturing.
@@ -202,7 +202,7 @@ export default function Home() {
           </div>
         </div>
       <div className="flex justify-center mt-8">
-  <img src="https://i.postimg.cc/KYytdTZP/Chat-GPT-Image-Jun-25-2025-12-26-39-PM.png" alt="CodeCraft Logo" className="h-60 rounded-md drop-shadow-lg" />
+  <img src="https://i.postimg.cc/fy2YxYW9/Chat-GPT-Image-Jul-12-2025-11-20-56-PM.png" alt="a2z CNC Solutions Logo" className="h-60 rounded-md drop-shadow-lg" />
 </div>
 </section>
 
@@ -210,7 +210,7 @@ export default function Home() {
 
 
 <footer className="bg-gray-800 text-white text-center p-4">
-        <p>&copy; 2025 CodeCraft Studio. All rights reserved.</p>
+        <p>&copy; 2025 a2z CNC Solutions. All rights reserved.</p>
       </footer>
     <a href="https://wa.me/919521384830" target="_blank" rel="noopener noreferrer" className="fixed bottom-6 right-6 z-50 bg-green-500 hover:bg-green-600 text-white px-4 py-3 rounded-full shadow-lg animate-bounce transition duration-300 flex items-center space-x-2">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" className="w-5 h-5" />

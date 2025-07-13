@@ -1,0 +1,7 @@
+AdMob app ID           ca-app-pub-4860158716013460~6635900343
+
+AdMob ad unit ID       ca-app-pub-4860158716013460/3043321455
+
+Reward
+
+AdMob ad unit ID       ca-app-pub-4860158716013460/8798211015
